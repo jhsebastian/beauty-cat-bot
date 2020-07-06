@@ -10,7 +10,7 @@ const Home = ({ history }) => {
         <Cat history={history}/>
         <div className="home-catbot-greeting">
           <Fade top>
-            <h1>Mmmm... ¿Qué me miras?</h1>
+            <h1>¿Qué me miras?</h1>
           </Fade>
           <Fade top>
             <label>¿Quieres hablar conmigo?</label>
