@@ -1,0 +1,11 @@
+.cat-container {
+  width: 100%;
+  cursor: pointer;
+  height: 400px;
+  text-align: center;
+  
+}
+
+.cat-container svg{
+  margin-bottom: 20px;
+}
